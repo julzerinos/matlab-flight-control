@@ -12,9 +12,9 @@ mouse_clicked = 0;
 %   (suggested values 5 < N < 50)
 % MapSize - size of the map (suggested values 250 < MapSize < 1000)
 % MaxFlights - the max amount of flights happening at once.
-N = 50;
-MapSize = 250;
-MaxFlights = 20;
+N = 20;
+MapSize = 500;
+MaxFlights = 10;
 
 % Set up figure
 fh = figure( ...
