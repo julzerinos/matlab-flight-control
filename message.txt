@@ -1,0 +1,6 @@
+Welcome to the Flight Control simulator!
+
+Sit back and enjoy the show. 
+
+If you need to speed things up,
+feel free to click any mouse button.
