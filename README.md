@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-A set of functions simulating flight control in a Matlab figure. The application generates a map with islands and creates flights between the cities of those islands.
-
-For examples see below images.
+A set of functions simulating flight control in a Matlab figure. The application generates and animates a map with islands and creates flights between the cities of those islands.
 
 ![Image One](https://raw.githubusercontent.com/julzerinos/matlab-flight-control/image-branch/src/flight-control-1.png)
 
